@@ -1,1 +1,1 @@
-# Harvard-MA-CSecurity
+# JHU-MS-CyberSecurity
